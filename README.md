@@ -1,4 +1,5 @@
-# CVPR-25: CV4Science Workshop - *Style Transfer for Carbon Stock Estimation*
+# CVPR-25: CV4Science Workshop
+*Style Transfer for Carbon Stock Estimation*
 
 
 [![Paper](https://img.shields.io/badge/PDF-Poster-blue)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10937715) [![Poster](https://img.shields.io/badge/PDF-Poster-orange)](https://github.com/YuZhenyuLindy/QRS-Trs/blob/main/Poster.pdf) 
