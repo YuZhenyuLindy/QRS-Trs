@@ -1,7 +1,7 @@
-# CVPR-25: CV4Science Workshop - *QRS-Trs*: Style Transfer for Carbon Stock Estimation
+# CVPR-25: CV4Science Workshop - *Style Transfer for Carbon Stock Estimation*
 
 
-[![Paper](https://img.shields.io/badge/PDF-Poster-blue)]([https://github.com/YuZhenyuLindy/Yuan/blob/main/Poster.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10937715) [![Poster](https://img.shields.io/badge/PDF-Slides-orange)](https://github.com/YuZhenyuLindy/QRS-Trs/blob/main/Poster.pdf) 
+[![Paper](https://img.shields.io/badge/PDF-Poster-blue)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10937715) [![Poster](https://img.shields.io/badge/PDF-Poster-orange)](https://github.com/YuZhenyuLindy/QRS-Trs/blob/main/Poster.pdf) 
 
 
 Our paper **"*QRS-Trs*: Style Transfer-Based Image-to-Image Translation for Carbon Stock Estimation in Quantitative Remote Sensing"** is available on [Paper]([https://arxiv.org/abs/2501.08505](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10937715).  
