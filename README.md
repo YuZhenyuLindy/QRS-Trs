@@ -9,7 +9,7 @@ Our paper **"*QRS-Trs*: Style Transfer-Based Image-to-Image Translation for Carb
 If you find this work useful, please consider citing it.
 
 <p align="center">
-  <img src="Poster.png" width="1000"/>
+  <img src="https://github.com/YuZhenyuLindy/QRS-Trs/blob/main/Poster.png" width="1000"/>
 </p>
 
 ## Contact
